@@ -1,23 +1,12 @@
-
-# Exercise-02d-Menu-HUD-Levels
-Exercise for MSCH-C220, 16 September 2021
-
-A simple game exploring HUD elements and changing scenes.
-
+# 02-Space-Shooter
+Project 2 2D Space Shooter
+Control a space ship and destroy the enemies! Watch out for asteroids and enemy weapons!
 ## Implementation
-Built using Godot 3.3.3
-
-The font, Bebas Neue Regular (Ryoichi Tsunekawa) was downloaded from [https://fontlibrary.org/en/font/bebasneueregular](https://fontlibrary.org/en/font/bebasneueregular)
-
-Assets provided by [kenney.nl](https://kenney.nl/assets/simple-space)
-
-Explosion sprite sheets provided by [StumpyStrust](https://opengameart.org/content/explosion-sheet) and [Cuzco](https://opengameart.org/content/explosion)
-
+Made with Godot 3.3.3
 ## References
-None
-
+All new sprites created by me using https://www.piskelapp.com/p/create/sprite
+Background image created with https://bggenerator.com
 ## Future Development
-None
-
-## Created by 
+none
+## Created by
 Peyton Roeder
